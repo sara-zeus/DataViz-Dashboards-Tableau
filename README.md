@@ -4,7 +4,8 @@
 The goal of this project is to use Tableau for visualization in order to transform complex data into clear, insightful visual representations, enabling easy interpretation, trend identification, and meaningful analysis for storytelling purposes.
 
 ## Process
-I used the Kaggle website: Cause of Death - Our World In Data. [https://www.kaggle.com/datasets/ivanchvez/causes-of-death-our-world-in-data?resource=download] 
+I used the dataset titled 'Causes of Death - Our World In Data' sourced from Kaggle. The dataset can be accessed at [Kaggle - Causes of Death - Our World In Data](https://www.kaggle.com/datasets/ivanchvez/causes-of-death-our-world-in-data?resource=download).
+
 
 ## Questoins 
 What are the top causes of death globally and in specific countries?
