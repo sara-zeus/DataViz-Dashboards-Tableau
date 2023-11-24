@@ -1,17 +1,21 @@
 # Final-Project-Tableau
 
 ## Project/Goals
-(fill in your description and goals here)
+The goal of this project is to use Tableau for visualization in order to transform complex data into clear, insightful visual representations, enabling easy interpretation, trend identification, and meaningful analysis for storytelling purposes.
 
 ## Process
-### (your step 1)
-### (your step 2)
+I used the Kaggle website: Cause of Death - Our World In Data. [https://www.kaggle.com/datasets/ivanchvez/causes-of-death-our-world-in-data?resource=download] 
 
-## Results
-(Fill in which Option you chose, either 1 or 2. List the dataset you selected for the project if you selected Option 2. Also, discuss the visualizations you created, and why. For Option 2, also identify what your data question was, and how you went through the prompts.)
+## Questoins 
+What are the top causes of death globally and in specific countries?
+How have these causes changed over the years?
+Are there any correlations between measures and causes of death? 
+Can we predict future trends in causes of death using historical data?
+Are there any unexpected patterns or outliers in the dataset? 
+
 
 ## Challenges 
-(discuss challenges you faced in the project)
+
 
 ## Future Goals
-(what would you do if you had more time?)
+Join more tables to the current dataset. 
