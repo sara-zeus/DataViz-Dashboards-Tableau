@@ -12,14 +12,14 @@ I used the dataset titled 'Causes of Death - Our World In Data' sourced from Kag
 
 1. What are the top causes of death globally and in specific countries?
 2. How have these causes changed over the years?
-3. Are there any correlations between measures and causes of death?
-4. Can we predict future trends in causes of death using historical data?
-5. Are there any unexpected patterns or outliers in the dataset?
+3. Can we predict future trends in causes of death using historical data?
+4. Are there any unexpected patterns or outliers in the dataset? 
 
 
 
 ## Challenges 
-
-
+1. Finding patterns
+2. Finding correlations
+   
 ## Future Goals
 Join more tables to the current dataset. 
