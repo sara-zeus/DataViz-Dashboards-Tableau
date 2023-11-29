@@ -4,7 +4,7 @@
 The goal of this project is to use Tableau for visualization in order to transform complex data into clear, insightful visual representations, enabling easy interpretation, trend identification, and meaningful analysis for storytelling purposes.
 
 ## Process
-I used the dataset titled 'Causes of Death - Our World In Data' sourced from Kaggle. The dataset can be accessed at [Kaggle - Causes of Death - Our World In Data](https://www.kaggle.com/datasets/ivanchvez/causes-of-death-our-world-in-data?resource=download).
+I used the dataset titled 'Causes of Death - Our World In Data' sourced from Kaggle. The dataset can be accessed at [Kaggle - Causes of Death - Our World In Data](https://www.kaggle.com/datasets/ivanchvez/causes-of-death-our-world-in-data?resource=download)
 
 
 ## Questoins 
@@ -18,8 +18,10 @@ I used the dataset titled 'Causes of Death - Our World In Data' sourced from Kag
 
 
 ## Challenges 
-1. Finding patterns
-2. Finding correlations
+1. Limited dataset with only 3 columns
+2. Identifying patterns within the data
+3. Uncovering correlations among variables
+4. Generating compelling visualizations using only 3 variables
    
 ## Future Goals
-Join more tables to the current dataset. 
+Join more tables to the current dataset
